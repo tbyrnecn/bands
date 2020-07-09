@@ -1,0 +1,32 @@
+body{
+  background-color: #05dfd7;
+  color: #fff591
+}
+
+h1{
+  font-size: 45px;
+  color: #fff591; 
+  font-family: 'Modak', cursive; 
+  text-align: center;
+  padding: 15px;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+}
+
+.nav{
+  background-color: #fa26a0;
+}
+
+.nav a{
+  display: block;
+  background-color: #a3f7bf;
+  color: #fa26a0;
+}
+
+.nav a:hover{
+  background-color: #fff591;
+  color: #a3f7bf;
+}

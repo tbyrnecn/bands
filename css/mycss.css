@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+}
+
+p{
+    font-size: 30px;
+    color: #004fb6;
+}
+
+.box{
+    border: solid red;
+    border-width: 5px;
+    width: 500px;
+    margin: 50px;
+    padding-left: 50px;
+}
